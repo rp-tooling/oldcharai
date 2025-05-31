@@ -1,5 +1,5 @@
 # oldcharai
-Weird userscript that makes you able to use old c.ai, albeit in a scuffed way
+Weird tutorial that makes you able to use old c.ai, albeit in a scuffed way
 
 ## How to use
 1. [Run in console before c.ai loads](https://raw.githubusercontent.com/rp-tooling/oldcharai/refs/heads/main/userscript.js)
