@@ -9,3 +9,5 @@ Weird userscript that makes you able to use old c.ai, albeit in a scuffed way
 > If C.AI asks you to leave the page, PLEASE CLICK NO! Otherwise you will be DOWNGRADED to NewUI
 
 Done!
+
+tip: run `document.querySelector(".apppage > div:nth-child(1)")` after it has loaded to hide the stupid red bar
