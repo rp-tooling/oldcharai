@@ -5,4 +5,7 @@ Weird userscript that makes you able to use old c.ai, albeit in a scuffed way
 1. [Run in console before c.ai loads](https://raw.githubusercontent.com/rp-tooling/oldcharai/refs/heads/main/userscript.js)
 2. Go to "https://plus.character.ai/chat/characters/search/?query=nothing"
 3. Click cancel on all "are you sure" prompts that pop up.
+> [!CAUTION]
+> If C.AI asks you to leave the page, PLEASE CLICK NO! \nOtherwise you will be DOWNGRADED to NewUI
+
 Done!
