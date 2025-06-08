@@ -11,6 +11,6 @@ Weird tutorial that makes you able to use old c.ai, albeit in a scuffed way
 
 Done!
 
-tip: run `document.querySelector(".apppage > div:nth-child(1)")` after it has loaded to hide the stupid red bar
+tip: run `document.querySelector(".apppage > div:nth-child(1)").remove()` after it has loaded to hide the stupid red bar
 > [!WARNING]
 > You can't easily use email login, just use google/apple login which is in-page.
