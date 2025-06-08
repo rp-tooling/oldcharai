@@ -1,4 +1,5 @@
 # oldcharai
+## PATCHED!!!
 Weird tutorial that makes you able to use old c.ai, albeit in a scuffed way
 
 ## How to use
