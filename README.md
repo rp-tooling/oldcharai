@@ -3,8 +3,9 @@
 Weird tutorial that makes you able to use old c.ai, albeit in a scuffed way
 
 ## How to use
-1. [Run in console before c.ai loads](https://raw.githubusercontent.com/rp-tooling/oldcharai/refs/heads/main/userscript.js)
-2. Go to "https://plus.character.ai/chat/characters/search/?query=nothing"
+Tip: use Chrome Dev Tools and set the speed throttle to 3G and disable cache to make it easier for you to hit the injection in time
+1. Go to "https://plus.character.ai/chat/characters/search/?query=nothing"
+2. [Run in console RIGHT after you see Tone.js](https://raw.githubusercontent.com/rp-tooling/oldcharai/refs/heads/main/userscript.js)
 3. Click cancel on all "are you sure" prompts that pop up.
 > [!CAUTION]
 > If C.AI asks you to leave the page, PLEASE CLICK NO! Otherwise you will be DOWNGRADED to NewUI
